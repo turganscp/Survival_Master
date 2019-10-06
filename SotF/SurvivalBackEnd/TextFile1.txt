@@ -1,0 +1,28 @@
+﻿bool running = true;
+DateTime oldTime = new DateTime.Now;
+float deltaTime = 0.0f;
+
+while(running){
+    deltaTime = DateTime.Now - oldTime;
+    oldTime = DateTime.Now;
+    GameStateActions();
+    CleanUp();
+    Render();
+}
+
+public void GameStateActions(){
+    //    Do Logic Here
+}
+
+public void CleanUp(){
+    // remove dead animals and such
+}
+
+public void Render(){
+    // for each object still okay, paint em on your canvas
+    // Render Tiles
+    // Render Animals
+}
+
+
+https://exceptionnotfound.net/modeling-battleship-in-csharp-components-and-setup/

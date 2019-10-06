@@ -1,0 +1,6 @@
+C:\Users\Wyrdling\source\repos\SotF\SurvivalBackEnd\bin\Debug\SurvivalBackEnd.exe.config
+C:\Users\Wyrdling\source\repos\SotF\SurvivalBackEnd\bin\Debug\SurvivalBackEnd.exe
+C:\Users\Wyrdling\source\repos\SotF\SurvivalBackEnd\bin\Debug\SurvivalBackEnd.pdb
+C:\Users\Wyrdling\source\repos\SotF\SurvivalBackEnd\obj\Debug\SurvivalBackEnd.csprojAssemblyReference.cache
+C:\Users\Wyrdling\source\repos\SotF\SurvivalBackEnd\obj\Debug\SurvivalBackEnd.exe
+C:\Users\Wyrdling\source\repos\SotF\SurvivalBackEnd\obj\Debug\SurvivalBackEnd.pdb

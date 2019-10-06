@@ -1,0 +1,13 @@
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\bin\Debug\SurvivalUI.exe.config
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\bin\Debug\SurvivalUI.exe
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\bin\Debug\SurvivalUI.pdb
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\bin\Debug\SurvivalBackEnd.exe
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\bin\Debug\SurvivalBackEnd.pdb
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\bin\Debug\SurvivalBackEnd.exe.config
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\obj\Debug\SurvivalUI.csprojAssemblyReference.cache
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\obj\Debug\SurvivalUI.Properties.Resources.resources
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\obj\Debug\SurvivalUI.csproj.GenerateResource.cache
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\obj\Debug\SurvivalUI.csproj.CopyComplete
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\obj\Debug\SurvivalUI.exe
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\obj\Debug\SurvivalUI.pdb
+C:\Users\Wyrdling\source\repos\SotF\SurvivalUI\obj\Debug\SurvivalUI.Form1.resources

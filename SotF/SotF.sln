@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalBackEnd", "SurvivalBackEnd\SurvivalBackEnd.csproj", "{35CF90DE-5D6C-41BA-9F48-C01423FD7589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalUI", "SurvivalUI\SurvivalUI.csproj", "{DFC88C93-7908-41F7-AC42-42401211FF5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35CF90DE-5D6C-41BA-9F48-C01423FD7589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CF90DE-5D6C-41BA-9F48-C01423FD7589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CF90DE-5D6C-41BA-9F48-C01423FD7589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CF90DE-5D6C-41BA-9F48-C01423FD7589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC88C93-7908-41F7-AC42-42401211FF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC88C93-7908-41F7-AC42-42401211FF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC88C93-7908-41F7-AC42-42401211FF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC88C93-7908-41F7-AC42-42401211FF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10CD238D-DE90-493A-A145-7A3E31763E51}
+	EndGlobalSection
+EndGlobal
