@@ -10,7 +10,8 @@ namespace SurvivalBackEnd
     {
         public Lion()
         {
-            Species = 'L';                
+            Species = 'L';
+            Weight = 10;
         }
     }
 }

@@ -11,6 +11,7 @@ namespace SurvivalBackEnd
         public Rabbit()
         {
             Species = 'R';
+            Weight = 10;
             
         }
     }
